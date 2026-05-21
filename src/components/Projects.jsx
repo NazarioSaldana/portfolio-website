@@ -36,7 +36,7 @@ function Projects() {
       process: "Designed a 4-mode digital counter and a 7-state HLSM in behavioral Verilog. Built two clock dividers using 16-bit and 20-bit counters, and developed BCD arithmetic logic with 4-bit overflow/underflow detection for accurate decimal counting.",
       skills: ["Verilog", "FPGA Synthesis", "Hardware State Machines", "Timing Analysis"],
       mediaType: "image",
-      mediaUrl: "/public/FPGA-PlaceHolder.png"
+      mediaUrl: "/FPGA-PlaceHolder.png"
     },
     {
       id: 4,
